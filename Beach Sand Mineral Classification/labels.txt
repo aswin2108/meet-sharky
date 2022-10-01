@@ -1,0 +1,6 @@
+0 Garnet
+1 Ilmenite
+2 Monazite
+3 Rutile
+4 Sillimanite
+5 Zircon
