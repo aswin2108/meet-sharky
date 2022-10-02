@@ -5,19 +5,18 @@ Marine pollution is a growing problem in today’s world. Our ocean is being flo
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## What it does? :hammer_and_pick:
-It helps to spread awareness about pollution in oceans and the harm it brings to marine animals like sharks. It provides information about how can we contribute towards saving our enviroment and oceans at the fingertips according to the user's needs with the help of our Twilio bot (on Whatsapp) and Cohere bot (on the web-app).
+It helps to spread awareness about pollution in oceans and the harm it brings to marine animals like sharks. It provides information about how can we contribute towards saving our enviroment and oceans at the fingertips according to the user's needs with the help of our Twilio bot (on Whatsapp) and Cohere bot (on the web-app).Along with it we made Pebbles or Shell and Beach Sand Mineral detection that would help you in collecting shells and different small rock minerals on the beach.When I used to visit beach in childhood i had difficulty recognising whether the certain shell or rock is worth collecting or not so I included it the project for beach enthusiasts.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## How we built it? :hammer_and_wrench:	
-
-- how we built!
+We built the main website using html,css and javascript.We made sharky using Cohere's NLP and Flask.We made Pebbles or Shell and Beach Sand Mineral Classification using Tensorflow and Keras.
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## Challenges we ran into 	:warning:
-- Challenges
+The time was very limited and it was difficult to come up with idea related to sharks.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
@@ -29,7 +28,7 @@ It helps to spread awareness about pollution in oceans and the harm it brings to
 As only one person in our team fully knew about bots others got the opportunity to learn about them and also how to excecute them properly.
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## What's next for Sharky :flying_saucer:
-Our app is fully capable of spreading awarenss to save sharks. Now in the future we can add feature to collect donations from the user to make a good use of it. Also in the future we have planned to provide some animated videos and presentations on the importance of sharks in our ecosystem.
+Our app is fully capable of spreading awareness to save sharks and oceans. Now in the future we can add feature to collect donations from the user to make a good use of it. Also in the future we have planned to provide some animated videos and presentations on the importance of sharks in our ecosystem.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## UI of the project :computer:
