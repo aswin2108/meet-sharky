@@ -1,11 +1,11 @@
 <h1 align='center'> Meet Sharky :shark: </h1>
 
 ## Inspiration :bulb:
- Our aim was to save the marine animals and the ocean. For this we thought of targeting sharks as its one of the popular, endangered, and feared marine animal of all time. 
+Marine pollution is a growing problem in today’s world. Our ocean is being flooded with two main types of pollution: chemicals and trash.Chemical contamination, or nutrient pollution, is concerning for health, environmental, and economic reasons. The increased concentration of chemicals, such as nitrogen and phosphorus, in the coastal ocean promotes the growth of algal blooms, which can be toxic to wildlife and harmful to humans. The negative effects on health and the environment caused by algal blooms hurt local fishing and tourism industries.Plastic waste is particularly problematic as a pollutant because it is so long-lasting. Plastic items can take hundreds of years to decompose.This trash poses dangers to both humans and animals. Fish become tangled and injured in the debris, and some animals mistake items like plastic bags for food and eat them. Small organisms feed on tiny bits of broken-down plastic, called microplastic, and absorb the chemicals from the plastic into their tissues. Microplastics are less than five millimeters (0.2 inches) in diameter and have been detected in a range of marine species, including plankton and whales. When small organisms that consume microplastics are eaten by larger animals, the toxic chemicals then become part of their tissues. In this way, the microplastic pollution migrates up the food chain, eventually becoming part of the food that humans eat.So we decided to make shaky a bot which works on Cohere's NLP to educate us about the how to save our oceans.Hence we named the project save our oceans.
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## What it does? :hammer_and_pick:
-It helps to spread awareness about pollution in oceans and the harm it brings to marine animals like sharks. It provides information at the fingertips according to the user's needs with the help of our Twilio bot (on Whatsapp) and Cohere bot (on the web-app).
+It helps to spread awareness about pollution in oceans and the harm it brings to marine animals like sharks. It provides information about how can we contribute towards saving our enviroment and oceans at the fingertips according to the user's needs with the help of our Twilio bot (on Whatsapp) and Cohere bot (on the web-app).
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
